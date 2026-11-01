@@ -1,0 +1,3 @@
+# Public repositories of clhodapp that the index leaves out, one name per line.
+# Forks and archived repositories are always left out and need no entry here.
+clhodapp.github.io
